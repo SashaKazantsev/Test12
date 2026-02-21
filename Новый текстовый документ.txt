@@ -1,0 +1,12 @@
+#ЗАПУСК
+git init
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git add .
+git commit -m "startНАЗВАНИЕ КОМИТА)"
+git remote add origin https://github.com/SashaKazantsev/Test12.git
+git branch -M main
+git push -u origin main
+
+
+
