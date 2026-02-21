@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #ЗАПУСК
 git init - инициализация
 git config --global user.email "you@example.com" -почта
@@ -16,17 +15,8 @@ git push после этого
 #если ошибка с репозиторием SHH
 настройки git hub
 добавить ssh ключ для безопасности.
-=======
-#ЗАПУСК
-git init
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
-git add .
-git commit -m "startНАЗВАНИЕ КОМИТА)"
-git remote add origin https://github.com/SashaKazantsev/Test12.git
-git branch -M main
-git push -u origin main
 
 
 
->>>>>>> f61b77945451f08a67a251a3117773137dfd78bb
+git status - посмотреть какие комиты, изменения были.
+git pull получить файлы с репозитория
