@@ -1,0 +1,17 @@
+#ЗАПУСК
+git init - инициализация
+git config --global user.email "you@example.com" -почта
+git config --global user.name "Your Name" - имя
+git add . - добавление файлов (каждый раз, индекс файлов)
+git commit -m "startНАЗВАНИЕ КОМИТА)" - локальный коммит (сообщения что делаешь ты щас)
+git remote add origin https://github.com/SashaKazantsev/Test12.git - подключение к репозиторию
+git branch -M main - создание ветки
+git push -u origin main - проталкивание на сервер
+
+
+
+
+
+#если ошибка с репозиторием SHH
+настройки git hub
+добавить ssh ключ для безопасности.

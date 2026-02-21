@@ -1489,7 +1489,11 @@ body {
     gap: 1.2rem;
     align-items: flex-start;
 }
+a{
 
+    text-decoration: none;
+    color: white;
+}
 .feature-card::before {
     content: '';
     position: absolute;

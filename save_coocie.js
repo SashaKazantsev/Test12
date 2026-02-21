@@ -77,7 +77,7 @@ if (temp_result != '0'){
 
 
 function saveToCookie(){
-    let code =''// ДОДЕЛАТЬ!
+    let code =''// ДОДЕЛАТЬ! ЕЩЕ НЕ ДОДЕЛАНО!!!!
 }
 
 
